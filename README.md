@@ -7,13 +7,12 @@
 
 # 2. Screenshot of the Running App
 
+<img width="750" height="400" alt="Screenshot_20260224_153438" src="https://github.com/user-attachments/assets/dc9f89b7-cf24-4bfd-b88f-542307a89f71" />
 
+<img width="400" height="750" alt="Screenshot_20260224_153300" src="https://github.com/user-attachments/assets/30c724f1-e70e-4f30-95fb-b2b50b3a2fa5" />
 
-<img width="400" height="750" alt="Screenshot_20260224_105711" src="https://github.com/user-attachments/assets/b38de24d-a4df-464a-bdc1-d8da072de7c2" />
+<img width="400" height="750" alt="Screenshot_20260224_153305" src="https://github.com/user-attachments/assets/f662ef0f-5ba9-477e-b8fd-0a4a3848e259" />
 
-<img width="400" height="750" alt="Screenshot_20260224_105744" src="https://github.com/user-attachments/assets/db1960bd-1741-4576-a08a-0050758ec82b" />
-
-<img width="400" height="750" alt="Screenshot_20260224_105750" src="https://github.com/user-attachments/assets/c99264e4-0373-4e8d-8f1b-20b3352c9f92" />
 
 
 
