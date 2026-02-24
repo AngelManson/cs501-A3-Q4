@@ -3,6 +3,7 @@
 
 # 1. What the App Does
 
+This application 
 
 
 # 2. Screenshot of the Running App
