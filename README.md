@@ -18,7 +18,7 @@
 
 # 3. Device / Emulator / SDK Version
 
-- **Emulator Device:** Medium Phone API 36.1 (Android 16.0 ("Baklava"))      
+- **Emulator Device:** Medium Phone API 36.1 (Android 16.0 ("Baklava")) / Medium Tablet API 35 (Android 15.0 ("VanillaCream"))   
 - **Minimum SDK:** 26  
 - **Target SDK:** 36
 
